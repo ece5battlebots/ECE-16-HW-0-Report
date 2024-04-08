@@ -7,5 +7,5 @@ HW 0 focuses on blinking the LED on for 1 second, and off for 500 milliseconds.
 
 
 
-![giphy](https://github.com/ece5battlebots/ECE-16-HW-0-Report/assets/163629673/9c3359f0-9083-4d6d-83b5-361118c20b68)
 
+https://s6.ezgif.com/tmp/ezgif-6-b6e2d8b181.gif
